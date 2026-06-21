@@ -1,0 +1,6 @@
+CV001|Lap trinh gio hang|Dev|TV01|DA01|20/10/2026|10.0|Done
+CV002|Thiet ke giao dien App|Design|TV02|DA01|12/10/2026|7.0|Done
+CV003|Kiem thu chuc nang muon sach|Test|TV03|DA02|15/09/2026|5.0|In Progress
+CV004|Sua loi tim kiem sach |Dev|TV04|DA02|18/09/2026|9.0|Done
+CV005|Thiet ke bieu do chi tieu|Design|TV05|DA03|25/10/2026|6.0|Done
+CV006|Test tinh nang canh bao vuot ngan sach |Test|TV06|DA03|30/10/2026|5.0|In Progress

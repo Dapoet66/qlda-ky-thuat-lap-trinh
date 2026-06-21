@@ -1,0 +1,6 @@
+TV01|Pham Duy Anh|Dev|DA01|1
+TV02|Pham Tuan Anh|Design|DA01|1
+TV03|Vu Hoang Lan|Test|DA02|1
+TV04|Tran Huu Hiep|Dev|DA02|1
+TV05|Duong Quoc Huy|Design|DA03|1
+TV06|Nguyen Minh Duc|Test|DA03|1
